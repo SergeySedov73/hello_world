@@ -9,6 +9,6 @@ public class Main {
         int s;
         s = 1;
 
-        String a = "string";
+        String a = "string1";
     }
 }
